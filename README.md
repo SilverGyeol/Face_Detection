@@ -25,6 +25,4 @@
 
 # 4. 웹캠을 이용하여 실시간 영상에서 얼굴을 인식한다.
 1. images 폴더에 저장되어있는 이미지와 유사도가 높은 형체 주변에 경계 상자를 띄웁니다.
-<br>
-![image](https://user-images.githubusercontent.com/94829177/173352031-5bac6605-3771-4970-978b-3e60f937eaee.png)
-![image](https://user-images.githubusercontent.com/94829177/173352110-5bd6b5bb-4a79-4034-a8fe-54001c529827.png)
+
